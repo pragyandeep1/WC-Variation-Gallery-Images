@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:      WooCommerce Variation Gallery
- * Plugin URI:       https://github.com/pragyandeep1
+ * Plugin URI:       https://github.com/pragyandeep1/Woocommerce-Variation-Gallery-Images
  * Description:      Dynamically updates the product gallery based on selected variation.
  * Version:          1.1.1
  * Author:           Pragyandeep Mohanty
