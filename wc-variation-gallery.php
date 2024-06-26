@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name:      WooCommerce Variation Gallery
- * Plugin URI:       https://github.com/pragyandeep1/Woocommerce-Variation-Gallery-Images
+ * Plugin Name:      WC Variation Gallery
+ * Plugin URI:       https://github.com/pragyandeep1/WC-Variation-Gallery-Images
  * Description:      Dynamically updates the product gallery based on selected variation.
- * Version:          1.1.1
+ * Version:          1.1
  * Author:           Pragyandeep Mohanty
- * Author URI:       https://github.com/pragyandeep1
- * Text Domain:      woocommerce-variation-gallery
+ * Author URI:       https://github.com/pragyandeep1/
+ * Text Domain:      wc-variation-gallery
  **/
 
 // defined('ABSPATH') or die('Keep Silent');
